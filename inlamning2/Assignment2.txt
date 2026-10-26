@@ -1,0 +1,8 @@
+Uppgift
+Skriv en klass som innehåller en publik statisk metod long evenSum(int from, int to) som skall summera
+alla jämna tal från och med from till och med to. Värdet from måste vara mindre eller lika med to.
+
+T.ex. om vi anropar den med evenSum(4, 6) skall svaret bli 10, anropar vi evenSum(10, 15) skall svaret bli
+36. Det är ok att ange from som är lika med to, för evenSum(4, 4) skall svaret bli 4.
+
+I de fall något fel uppstår eller en summa inte kan beräknas skall metoden returnera -1.

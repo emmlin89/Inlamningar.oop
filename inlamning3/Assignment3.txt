@@ -1,0 +1,24 @@
+Uppgift
+Skapa en klass som modellerar en spargris. Du skall kunna göra följande med spargrisen:
+Spara ett mynt, endast riktiga svenska mynt skall accepteras.
+Fråga hur många mynt som finns sparade (antal mynt).
+Fråga efter summan på alla sparade mynt (totalt värde).
+
+Skriv även ett program (i en separat klass) som frågar om mynt att spara i spargrisen tills användaren matar in
+noll. Då skall antal mynt och totalt värde skrivas ut.
+Exempel:
+
+Vilket mynt vill du spara?
+1
+Vilket mynt vill du spara?
+5
+Vilket mynt vill du spara?
+99
+Vilket mynt vill du spara?
+1
+Vilket mynt vill du spara?
+0
+Du har sparat 3 mynt till ett totalt värde av 7 kronor.
+
+Observera att klassen för spargrisen inte skall innehålla någon kod för inmatning eller utmatning. Man vill
+normalt separera data och affärslogik från användargränssnittet.

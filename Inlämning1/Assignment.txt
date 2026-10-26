@@ -1,0 +1,12 @@
+Uppgift
+Skriv en klass med en main-metod där du skall räkna ut hur mycket lön en person skall få utbetalat. Personen
+har en grundlön på 20000 kronor och har därtill provision på 500 kronor för varje försäljning hen gör. Den här
+månaden gjorde hen 15 försäljningar. I år får alla dessutom en hälsobonus på 2% av hela lönen. Slutligen skall
+det betalas skatt på allt detta på 33.45%.
+
+Deklarera grundlön, provision, försäljningar, hälsobonus och skatt som variabler. Använd så lämpliga
+datatyper som möjligt av de primitiva datatyperna! Räkna sedan ut vilken lön personen får utbetalat till en
+sjätte variabel och skriv ut värdet av den variabeln på skärmen. Se till att variablerna har så bra namn som
+möjligt.
+
+Vill du så får du använda fler variabler om du tycker att koden blir bättre av det.
