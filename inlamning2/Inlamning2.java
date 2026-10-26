@@ -6,7 +6,7 @@ public class Inlamning2 {
 
             return -1;
 
-        } else 
+        } else {
             for (long i = from; i <= to; i++) {
                 if (i % 2 == 0) {
 
@@ -14,6 +14,7 @@ public class Inlamning2 {
                 }
             }
 
-        return sum;
+            return sum;
+        }
     }
 }

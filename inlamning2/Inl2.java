@@ -1,4 +1,4 @@
-public class Inlamning2 {
+public class Inl2 {
     public static long evenSum(int from, int to) {
 
         long sum = 0;
@@ -7,7 +7,7 @@ public class Inlamning2 {
 
             return -1;
 
-        } else
+        } else {
 
             for (long i = from; i <= to; i++) {
                 if (i % 2 == 0) {
@@ -16,6 +16,7 @@ public class Inlamning2 {
                 }
             }
 
-        return sum;
+            return sum;
+        }
     }
 }
