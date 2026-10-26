@@ -1,4 +1,4 @@
-public class EmmaLindbomIn {
+public class ELIn1 {
     public static void main() {
         int baseSalary = 20_000;
         int provision = 500;
